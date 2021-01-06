@@ -1,3 +1,5 @@
+<img src="https://github.com/aniketsindhal/aniketsindhal/blob/main/IMG_1500.jpg"/>
+
 <h1>Aniket Sindhal 😊</h1>
 
 - 🔭 I’m currently working on Autocad and AutoDesk.
